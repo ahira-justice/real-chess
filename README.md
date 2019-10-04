@@ -16,10 +16,11 @@ This was my first attempt at a solution. I had just finished [Al Sweigart's](htt
 
 ## real_chess_beta_version.pyw
 
-This 
-
+This is the first playable version of the game. It has no movement validation or capture constraints, neither does it have check or check-mate. It's just a board with 16 pieces a side. You can play as you would a real-life physical chess game, where both parties know the game and enforce the rules on the other person. I completed this version in 3 weeks of coding, only going out of room for kitchen runs.
 
 ## real_chess_1.0.pyw
+
+This version of the game is the _current and final_ one. It has seen many iterations. Plenty of spirited bursts of coding fervor, punctuated by drawn out hiatuses. The product is many lines of code that mean more to me than what they're worth in text.
 
 ## Maintenance
 
@@ -35,3 +36,5 @@ Whatever I end up doing with the project, I hope **real-chess** is something cas
 ```sh
 pip install pygame
 ```
+
+Clone this repo and have a go at a mate.
