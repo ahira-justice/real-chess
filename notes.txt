@@ -1,4 +1,0 @@
-1. Allows the king to move into danger by moving back, 
-away from the attacking piece but still in line of capture.
-2. Allows the king to capture an attacking piece, 
-even when that move will land it in a danger square.
